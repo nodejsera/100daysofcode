@@ -8,3 +8,5 @@
 ### Day 3 Patters : Creating different patters like pyramid, triangle, etc using for loop in node.js
 
 ### Day 4 Date Difference : Calculating the difference between 2 dates in days, hours, minutes and seconds using node.js
+
+### Day 5 Server in Hapi : Create a simple server in Hapi.js 

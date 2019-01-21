@@ -1,0 +1,41 @@
+{
+  "name": "simple-server",
+  "version": "1.0.0",
+  "description": "A simple server in hapi.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejsera/hapi-tutorial.git"
+  },
+  "keywords": [
+    "hapi",
+    "hapi.js",
+    "hapi",
+    "tutorial",
+    "simple",
+    "server",
+    "server",
+    "in",
+    "hapi",
+    "how",
+    "to",
+    "create",
+    "a",
+    "server",
+    "in",
+    "hapi.js"
+  ],
+  "author": "@rajatgarian , @nodejsera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nodejsera/hapi-tutorial/issues"
+  },
+  "homepage": "https://github.com/nodejsera/hapi-tutorial#readme",
+  "dependencies": {
+    "hapi": "^17.2.0"
+  }
+}
